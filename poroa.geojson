@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "poroa",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "poroa", "description": null, "tessellate": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.826427901520702, -39.732952471099907 ], [ 175.827515482387895, -39.762856744549993 ], [ 175.889939429941592, -39.762273370171648 ], [ 175.889246063131793, -39.732364740138323 ], [ 175.826427901520702, -39.732952471099907 ] ] ] } }
-]
-}

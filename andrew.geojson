@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "andrew",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Name": "andrew", "description": null, "tessellate": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.033473545916905, -40.61883210190161 ], [ 176.094208632017995, -40.619077188964752 ], [ 176.094272350472096, -40.57017630926881 ], [ 176.033667950386587, -40.570279629528883 ], [ 176.033473545916905, -40.61883210190161 ] ] ] } }
-]
-}
