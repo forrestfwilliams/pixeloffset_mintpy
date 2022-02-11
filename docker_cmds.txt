@@ -4,3 +4,11 @@ docker run --rm -p 2001:8888 -v /mnt/i/pixel:/home/micromamba/pixel forrestwilli
 docker run --rm -p 2001:8888 -v /Users/forrest/documents/work/data/mnw_results:/home/micromamba/data -v /Users/forrest/documents/work/repositories/pixeloffset_mintpy:/home/micromamba/scripts forrestwilliams/autorift:latest
 
 docker run --rm -p 2001:8888 -v /Users/forrest/documents/work/data/mnw_results:/home/micromamba/data -v /Users/forrest/documents/work/repositories/pixeloffset_mintpy:/home/micromamba/scripts forrestwilliams/mintpy_jupyter:1.3.1
+
+
+
+docker run --rm -p 2001:8888 -v /Users/forrest/Documents/work/data/paper3:/home/micromamba/data -v /Users/forrest/Documents/work/repositories/pixeloffset_mintpy:/home/micromamba/scripts forrestwilliams/autorift:latest
+
+
+
+docker run --rm -p 2001:8888 -v /Users/forrest/Documents/work/data/paper3:/home/micromamba/data -v /Users/forrest/Documents/work/repositories/pixeloffset_mintpy:/home/micromamba/scripts forrestwilliams/mintpy_jupyter:1.3.1
