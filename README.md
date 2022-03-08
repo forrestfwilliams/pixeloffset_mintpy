@@ -28,7 +28,7 @@ This notebook handles the downloading of Sentinel-2 products that are clipped to
 This step performs the actual AutoRIFT pixel offset tracking. The notebook provided uses the parameters that work well for my study area and Sentinel-2 imagery, but you can find out more about using AutoRIFT [here](https://github.com/nasa-jpl/autoRIFT).
 
 ## Step 3: Time-series processing
-**Notebook:** autorift\_minty.ipynb
+**Notebook:** mintpy.ipynb
 
 **Environment:** MintPy environment
 
